@@ -3,7 +3,7 @@
 # 2: All js code is not commeted to a proper degree 
 
 #UI Upgrade
-  #sevenday forecast will be a page that is behind each card     = implimented
-  #Cards will be removable via a swipe to the left               = implimented       
-  #Functionality to save the session between uses                = working on
+#sevenday forecast will be a page that is behind each card     = implimented
+#Cards will be removable via a swipe to the left               = implimented       
+#Functionality to save the session between uses                = working on
 
