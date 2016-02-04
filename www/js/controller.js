@@ -1,3 +1,7 @@
+/*
+*Travis Pullen Code Review: The code looks good. Just could use a few comments letting people know what everything is doing.
+*
+*/
 weatherApp.controller('weatherCtrl', function($scope, $ionicModal, weatherService, googleGeoService) {
 
   var arrayid = 0;
